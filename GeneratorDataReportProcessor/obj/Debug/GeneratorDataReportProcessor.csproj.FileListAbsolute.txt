@@ -1,0 +1,9 @@
+C:\Users\erich\source\repos\GeneratorDataReportProcessor\GeneratorDataReportProcessor\bin\Debug\GeneratorDataReportProcessor.exe.config
+C:\Users\erich\source\repos\GeneratorDataReportProcessor\GeneratorDataReportProcessor\bin\Debug\GeneratorDataReportProcessor.exe
+C:\Users\erich\source\repos\GeneratorDataReportProcessor\GeneratorDataReportProcessor\bin\Debug\GeneratorDataReportProcessor.pdb
+C:\Users\erich\source\repos\GeneratorDataReportProcessor\GeneratorDataReportProcessor\bin\Debug\Common.dll
+C:\Users\erich\source\repos\GeneratorDataReportProcessor\GeneratorDataReportProcessor\bin\Debug\Common.pdb
+C:\Users\erich\source\repos\GeneratorDataReportProcessor\GeneratorDataReportProcessor\obj\Debug\GeneratorDataReportProcessor.csprojAssemblyReference.cache
+C:\Users\erich\source\repos\GeneratorDataReportProcessor\GeneratorDataReportProcessor\obj\Debug\GeneratorDataReportProcessor.csproj.CopyComplete
+C:\Users\erich\source\repos\GeneratorDataReportProcessor\GeneratorDataReportProcessor\obj\Debug\GeneratorDataReportProcessor.exe
+C:\Users\erich\source\repos\GeneratorDataReportProcessor\GeneratorDataReportProcessor\obj\Debug\GeneratorDataReportProcessor.pdb

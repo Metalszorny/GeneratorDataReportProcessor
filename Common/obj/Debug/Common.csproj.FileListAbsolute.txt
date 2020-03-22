@@ -1,0 +1,5 @@
+C:\Users\erich\source\repos\GeneratorDataReportProcessor\Common\bin\Debug\Common.dll
+C:\Users\erich\source\repos\GeneratorDataReportProcessor\Common\bin\Debug\Common.pdb
+C:\Users\erich\source\repos\GeneratorDataReportProcessor\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\erich\source\repos\GeneratorDataReportProcessor\Common\obj\Debug\Common.dll
+C:\Users\erich\source\repos\GeneratorDataReportProcessor\Common\obj\Debug\Common.pdb
